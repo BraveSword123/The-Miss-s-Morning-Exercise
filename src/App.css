@@ -1,0 +1,183 @@
+
+/* Need to change CSS so Header and Subheader are in the  and stay there
+    Maybe use grid display instead of flex
+    Maybe use fixed position for header and subheader
+    Also need to make sure circles are in a container that stays below the subheader and above
+    the text box
+    Margin and padding adjustments will be needed as well
+*/ 
+#header{
+  display: flex; 
+ /* flex-flow: row wrap;  
+    width: 1480px; 
+    gap: 300px; 
+    border: 2px solid black; 
+    justify-content: center; 
+    align-content: center; */ 
+  justify-content: space-between; /*Will Change Later*/ 
+
+}
+
+#title{
+  font-family: 'Parisienne', cursive; 
+  color: #ff8486; 
+  background-color: #fffdfd; 
+  border: 2px solid #ff8486;
+  padding: 5px; 
+  font-weight: 100; 
+  width: 361px; 
+}
+
+#level{
+  font-family: 'Parisienne', cursive; 
+  color: #ff8486; 
+  background-color: #fffdfd; 
+  border: 2px solid #ff8486;
+  width: 100px; 
+  padding: 5px; 
+  font-weight: 100; 
+}
+
+#circleContainer{
+  display: flex; 
+  flex-wrap: wrap; 
+  gap: 25px;
+  position: fixed; 
+  left: 7px;
+}
+
+#hint{
+  font-family: 'Parisienne', cursive; 
+  font-size: 30px; 
+  background-color: #fff0f1;
+    border: 2px solid #ff8486;  
+ font-weight: 100;
+  float: right;
+  cursor: pointer; 
+}
+
+#circleDiv{
+  border-radius: 30px;
+  background-color: #FF8486; 
+  width: 35px; 
+  height: 35px; 
+  z-index: 10; 
+}
+
+#textBox{
+  border: 2px solid #ff8486; 
+  width: 700px;
+  height: 200px; 
+  margin-left: auto;  
+  margin-right: auto; 
+  margin-top: 520px; 
+  background-color: #fffdfd;
+}
+
+#boxTitle{
+    font-family: 'Parisienne', cursive; 
+   font-weight: 100;
+   margin-top: 10px; 
+   padding-left: 20px; 
+   font-size: 35px; 
+  }
+
+  #dialogue{
+    text-align: center;  
+     font-size: 22px; 
+     margin-top: -30px; 
+  }
+
+  #backgroundImage{
+  background-image: url('./assets/Images/Game Background.png'); 
+  background-size: cover;
+  background-position: center;
+  background-position-y: center; 
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  position: fixed; 
+  inset: 0; /* top: 0, right: 0, botton: 0, left: 0 */ 
+  z-index: -1;  
+  }
+
+ #characterAsset{
+  position: fixed; 
+ /* inset: 0; */ 
+  z-index: -1;
+  height: 1000px; 
+ top: 50%; 
+ left: 50%; 
+ margin-top: -450px; 
+ margin-left: -370px; 
+  } 
+
+  #buttonContainer{
+    margin-top: 60px; 
+    margin-left: 220px; 
+    display: flex; 
+    flex-wrap: wrap;
+    gap: 40px; 
+    text-align: center; 
+  }
+  #firstButton{
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 17px;
+    width: 120px; 
+    height: 40px; 
+    background-color: #ffc9ca; 
+    cursor: pointer; 
+    border: none;
+  }
+
+  #secondButton{
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 17px;
+    width: 120px; 
+    height: 40px; 
+    background-color: #ffc9ca;
+    cursor: pointer; 
+    border: none; 
+  }
+  
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */ 
