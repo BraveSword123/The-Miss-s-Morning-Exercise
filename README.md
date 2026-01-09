@@ -49,7 +49,8 @@ These are early UI prototype screens featuring my original artwork and interface
 <img width="2071" height="1164" alt="Screenshot 2026-01-09 131715" src="https://github.com/user-attachments/assets/e1e2378c-661a-411c-8daa-8538b7c45530" />
 
 ### Gameplay Prompt Screen
-<img width="2073" height="1170" alt="Screenshot 2026-01-09 131740" src="https://github.com/user-attachments/assets/346d4d5f-202e-4377-a829-ccc065219762" />
+<img width="2318" height="1298" alt="image" src="https://github.com/user-attachments/assets/c620406a-b5fd-41f1-ad88-c828a843f61b" />
+
 
 ---
 
