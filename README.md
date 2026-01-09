@@ -6,18 +6,6 @@ A Regency-era vocabulary guessing game where you’re being *tutored* by a stric
 
 ---
 
-## Table of Contents
-- [About](#about)
-- [How to Play](#how-to-play)
-- [Game Rules](#game-rules)
-- [UI Prototypes (Artwork)](#ui-prototypes-artwork)
-- [Tech Stack](#tech-stack)
-- [Development](#development)
-- [Roadmap](#roadmap)
-- [Credits](#credits)
-
----
-
 ## About
 
 **The Miss’s Morning Exercise** is a word-guessing web game set in a Regency-inspired lesson. You play as a student being drilled by a stern governess who expects nothing less than perfection.
