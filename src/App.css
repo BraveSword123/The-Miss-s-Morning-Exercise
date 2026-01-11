@@ -142,6 +142,20 @@
     cursor: pointer; 
     border: none; 
   }
+
+  #letterBoxContainer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; 
+    justify-content: center;
+  }
+
+  #letterBox{
+    width: 60px; 
+    height: 80px; 
+    background-color: #fffdfd;
+    border: 2px solid #ff8486;
+  }
   
 /* #root {
   max-width: 1280px;

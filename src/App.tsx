@@ -2,6 +2,7 @@
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 import Circle from "./components/Circle"
+import LetterBox from "./components/LetterBox"
 import './App.css'
 import defaultSpeak from './assets/Images/Face Asset Speak Default.png'
 
@@ -35,6 +36,13 @@ function App() {
         <Circle/>
                 </div>
       <button id="hint">Hint</button>
+      <div id="letterBoxContainer">
+        <LetterBox/>
+        <LetterBox/>
+        <LetterBox/>
+        <LetterBox/>
+        <LetterBox/>
+      </div>
       <div id="textBox">
         <h2 id="boxTitle">Miss Sinclair</h2>
         <div id="dialogue">Good morning, we shall proceed at once.</div>
