@@ -8,14 +8,12 @@
 */ 
 #header{
   display: flex; 
- /* flex-flow: row wrap;  
-    width: 1480px; 
-    gap: 300px; 
+  /* justify-content: space-around;
+  /*  width: 1480px; 
     border: 2px solid black; 
     justify-content: center; 
     align-content: center; */ 
   justify-content: space-between; /*Will Change Later*/ 
-
 }
 
 #title{
@@ -26,6 +24,7 @@
   padding: 5px; 
   font-weight: 100; 
   width: 361px; 
+  margin-left: 300px; 
 }
 
 #level{
@@ -36,6 +35,9 @@
   width: 100px; 
   padding: 5px; 
   font-weight: 100; 
+  margin-right: 400px;
+  padding-left: 15px; 
+  padding-right: 15px; 
 }
 
 #circleContainer{
@@ -44,16 +46,18 @@
   gap: 25px;
   position: fixed; 
   left: 7px;
+  margin-left: 300px;
 }
 
 #hint{
   font-family: 'Parisienne', cursive; 
   font-size: 30px; 
   background-color: #fff0f1;
-    border: 2px solid #ff8486;  
- font-weight: 100;
+  border: 2px solid #ff8486;  
+  font-weight: 100;
   float: right;
   cursor: pointer; 
+  margin-right: 400px; 
 }
 
 #circleDiv{
@@ -75,7 +79,7 @@
 }
 
 #boxTitle{
-    font-family: 'Parisienne', cursive; 
+  font-family: 'Parisienne', cursive; 
    font-weight: 100;
    margin-top: 10px; 
    padding-left: 20px; 
