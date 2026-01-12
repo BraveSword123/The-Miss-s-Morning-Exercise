@@ -1,0 +1,1288 @@
+[{
+    "word": "waltz", 
+    "definition": "a ballroom dance in triple time.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 1
+}, 
+{
+    "word": "satin", 
+    "definition": "a smooth, glossy fabric used for dress.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 2
+}, 
+{
+    "word": "manor", 
+    "definition": "a large country house on an estate.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 3
+}, 
+{
+    "word": "noble", 
+    "definition": "a person of high and honorable rank.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 4
+}, 
+{
+    "word": "court", 
+    "definition": "a high society or to seek a romantic relationship.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 5
+}, 
+{
+    "word": "tiara", 
+    "definition": "a jeweled headpiece worn at formal events.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 6
+}, 
+{
+    "word": "grace", 
+    "definition": "elegance and poise in movement or behavior.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 7
+}, 
+{
+    "word": "elite", 
+    "definition": "a select group that is superior in status or ability.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 8
+},
+{
+    "word": "quill", 
+    "definition": "a feather pen used for writing.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 9
+}, 
+{
+    "word": "valet", 
+    "definition": "a gentleman’s personal attendant.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 10
+}, 
+{
+    "word": "coach", 
+    "definition": "a horse-drawn carriage for travel.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 11
+}, 
+{
+    "word": "opera", 
+    "definition": "a stage drama sung with orchestral music.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 12
+}, 
+{
+    "word": "verse", 
+    "definition": "a line or group of lines in poetry.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 13
+}, 
+{
+    "word": "poise", 
+    "definition": "graceful balance and self-control.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 14
+}, 
+{
+    "word": "dandy", 
+    "definition": "a man who is very concerned with fashion.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 15
+}, 
+{
+    "word": "glove", 
+    "definition": "a hand covering worn for warmth or dress.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 16
+}, 
+{
+    "word": "shawl", 
+    "definition": "a wrap worn over the shoulders.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 17
+}, 
+{
+    "word": "music", 
+    "definition": "songs or instrumental pieces.", 
+    "isUsed": false, 
+    "wordCount": 5, 
+    "id": 18
+},  
+  {
+    "word": "linen",
+    "definition": "flax fabric or household cloth items.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 19
+  },
+  {
+    "word": "silks",
+    "definition": "fine cloth made from fibers produced by silkworms.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 20
+  },
+  {
+    "word": "belle",
+    "definition": "an admired young woman at a social event.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 21
+  },
+  {
+    "word": "heirs",
+    "definition": "people legally entitled to inherit property.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 22
+  },
+  {
+    "word": "lords",
+    "definition": "noblemen or people holding a title.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 23
+  },
+  {
+    "word": "piano",
+    "definition": "a keyboard instrument for music-making.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 24
+  },
+  {
+    "word": "china",
+    "definition": "porcelain dishes and decorative ware.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 25
+  },
+  {
+    "word": "fancy",
+    "definition": "decorative style; also a liking or preference.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 26
+  },
+  {
+    "word": "toast",
+    "definition": "a public good-will drink or spoken tribute.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 27
+  },
+  {
+    "word": "dress",
+    "definition": "ca one-piece garment.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 28
+  },
+  {
+    "word": "pearl",
+    "definition": "a round gem formed inside an oyster.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 29
+  },
+  {
+    "word": "jewel",
+    "definition": "a precious ornament, often with gemstones.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 30
+  },
+  {
+    "word": "novel",
+    "definition": "a long fictional story.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 31
+  },
+  {
+    "word": "bride",
+    "definition": "a woman on her wedding day.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 32
+  },
+  {
+    "word": "groom",
+    "definition": "a man on his wedding day.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 33
+  },
+  {
+    "word": "altar",
+    "definition": "a table or platform used in a ceremony.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 34
+  },
+  {
+    "word": "witty",
+    "definition": "clever and amusing in speech or writing.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 35
+  },
+  {
+    "word": "pride",
+    "definition": "a sense of dignity or self-respect.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 36
+  },
+  {
+    "word": "roses",
+    "definition": "garden flowers often used in bouquets.",
+    "isUsed": false,
+    "wordCount": 5,
+    "id": 37
+  }, 
+    {
+    "word": "bonnet",
+    "definition": "a hat, often tied under the chin.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 1
+  }, 
+    {
+    "word": "gownes",
+    "definition": "elegant dresses worn for formal occasions.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 2
+  }, 
+    {
+    "word": "corset",
+    "definition": "a fitted garment that shapes the waist.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 3
+  }, 
+  {
+    "word": "estate",
+    "definition": "a large property, often with a house and land.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 4
+  }, 
+    {
+    "word": "garden",
+    "definition": "a cultivated outdoor space for plants.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 5
+  }, 
+    {
+    "word": "candle",
+    "definition": "a wax light source with a wick.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 6
+  }, 
+    {
+    "word": "ribbon",
+    "definition": "a narrow strip of fabric for trimming or tying.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 7
+  }, 
+    {
+    "word": "velvet",
+    "definition": "a soft fabric with a short, dense pile.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 8
+  }, {
+    "word": "silver",
+    "definition": "a shiny metal used for cutlery and jewelry.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 9
+  },
+  {
+    "word": "teapot",
+    "definition": "a pot used for brewing and serving tea.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 10
+  },
+  {
+    "word": "mirror",
+    "definition": "a reflective surface used for grooming.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 11
+  },
+  {
+    "word": "letter",
+    "definition": "a written message sent to someone.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 12
+  },
+  {
+    "word": "squire",
+    "definition": "a country gentleman, often an estate holder.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 13
+  },
+  {
+    "word": "suitor",
+    "definition": "a person who seeks to marry someone.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 14
+  },
+  {
+    "word": "manner",
+    "definition": "a way of behaving.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 15
+  },
+  {
+    "word": "social",
+    "definition": "an informal gathering",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 16
+  }, 
+   {
+    "word": "sewing",
+    "definition": "joining cloth with needle and thread.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 17
+  },
+  {
+    "word": "needle",
+    "definition": "a slender tool used for sewing.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 18
+  }, 
+  {
+    "word": "butler",
+    "definition": "a senior servant managing a household.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 19
+  },
+  {
+    "word": "castle",
+    "definition": "a large fortified building, often historic.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 20
+  }, 
+   {
+    "word": "gloves",
+    "definition": "hand coverings worn for dress or warmth.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 21
+  },
+  {
+    "word": "shawls",
+    "definition": "wraps worn over the shoulders.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 22
+  },
+  {
+    "word": "brooch",
+    "definition": "a decorative pin worn on clothing.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 23
+  },
+  {
+    "word": "gentle",
+    "definition": "kind, mild, and not rough or harsh.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 24
+  }, 
+   {
+    "word": "polite",
+    "definition": "showing good manners and respectful.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 25
+  },
+  {
+    "word": "curtsy",
+    "definition": "a respectful bending of the knees by a woman.",
+    "isUsed": false,
+    "wordCount": 6,
+    "id": 26
+  }, 
+ {
+    "word": "regency",
+    "definition": "the period when a regent rules in place of a monarch.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 1
+ }, 
+ {
+    "word": "manners",
+    "definition": "polite ways of behaving with others.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 2
+ }, 
+  {
+    "word": "genteel",
+    "definition": "polished, well-bred, and refined.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 3
+ }, 
+   {
+    "word": "refined",
+    "definition": "elegant and cultured in style or behavior.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 4
+ }, 
+    {
+    "word": "romance",
+    "definition": "a feeling of love.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 5
+ }, 
+   {
+    "word": "eternal",
+    "definition": "lasting forever and timeless.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 6
+ }, 
+ {
+    "word": "letters",
+    "definition": "written messages sent to others.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 7
+ }, 
+  {
+    "word": "library",
+    "definition": "a room or place where books are kept.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 8
+ }, 
+  {
+    "word": "terrace",
+    "definition": "a level outdoor area, often beside a house.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 9 
+ }, 
+  {
+    "word": "parasol",
+    "definition": "a light umbrella used for sunshade.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 10 
+ }, 
+   {
+    "word": "footman",
+    "definition": "a male household servant in livery.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 11 
+ }, 
+   {
+    "word": "servant",
+    "definition": "a person employed to do household work.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 12 
+ }, 
+  {
+    "word": "duchess",
+    "definition": "the wife or female holder of a duke’s title.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 13 
+ }, 
+  {
+    "word": "marquis",
+    "definition": "a noble rank below a duke and above an earl.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 14 
+ }, 
+   {
+    "word": "banquet",
+    "definition": "a formal meal for many guests.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 15 
+ }, 
+   {
+    "word": "wedding",
+    "definition": "a marriage ceremony and celebration.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 16 
+ }, 
+  {
+    "word": "bouquet",
+    "definition": "a bunch of flowers, often carried at weddings.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 17 
+ }, 
+   {
+    "word": "seaside",
+    "definition": "the coast or a popular place for visits and retreats.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 18 
+ }, 
+    {
+    "word": "morning",
+    "definition": "the early part of the day.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 19 
+ }, 
+    {
+    "word": "evening",
+    "definition": "the later part of the day for dinners and parties.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 20 
+ }, 
+    {
+    "word": "hosting",
+    "definition": "antertaining guests at home.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 21 
+ }, 
+    {
+    "word": "ballads",
+    "definition": "songs or poem that tells a story.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 22 
+ }, 
+     {
+    "word": "harmony",
+    "definition": "pleasant combination of musical notes.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 23 
+ }, 
+     {
+    "word": "topcoat",
+    "definition": "a coat worn over other clothing for warmth.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 24 
+ }, 
+    {
+    "word": "chiffon",
+    "definition": "a light, sheer fabric used in dress.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 25 
+ }, 
+    {
+    "word": "pendant",
+    "definition": "a piece of jewelry that hangs from a chain.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 26 
+     }, 
+    {
+    "word": "hostess",
+    "definition": "a woman who receives and entertains guests.",
+    "isUsed": false,
+    "wordCount": 7,
+    "id": 27 
+     }, 
+    {
+    "word": "ballroom",
+    "definition": "a large room used for formal dancing.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 1 
+     }, 
+    {
+    "word": "carriage",
+    "definition": "a horse-drawn vehicle for passengers.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 2 
+     }, 
+    {
+    "word": "courtesy",
+    "definition": "polite behavior and good manners.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 3 
+     }, 
+    {
+    "word": "courtier",
+    "definition": "a person who attends and serves at court.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 4 
+     }, 
+    {
+    "word": "ladyship",
+    "definition": "a respectful title used for a noblewoman.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 5 
+     }, 
+    {
+    "word": "lordship",
+    "definition": "a respectful title used for a nobleman.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 6 
+     }, 
+    {
+    "word": "debutant",
+    "definition": "a person making a first formal appearance in society.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 7 
+     }, 
+    {
+    "word": "necklace",
+    "definition": "jewelry worn around the neck.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 8 
+     }, 
+    {
+    "word": "heirloom",
+    "definition": "a valued family object passed down over time.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 9 
+     }, 
+    {
+    "word": "proposal",
+    "definition": "an offer of marriage or an engagement request.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 10
+     }, 
+    {
+    "word": "marriage",
+    "definition": "the legal union between two people as partners.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 11
+     },  
+    {
+    "word": "dowagers",
+    "definition": "widows with a title or property, often older.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 12
+     }, 
+    {
+    "word": "portrait",
+    "definition": "a picture of a person, painted or drawn.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 13
+     }, 
+    {
+    "word": "songbook",
+    "definition": "a book containing music.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 14
+     }, 
+    {
+    "word": "lacework",
+    "definition": "decorative openwork made with thread or lace.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 15
+     }, 
+    {
+    "word": "handmaid",
+    "definition": "a female attendant or helper in a household.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 16
+     }, 
+    {
+    "word": "chivalry",
+    "definition": "polite, honorable behavior, especially toward others.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 17
+     }, 
+     {
+    "word": "elegance",
+    "definition": "graceful style and good taste.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 18
+     },  
+    {
+    "word": "decorous",
+    "definition": "proper and polite in behavior.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 19
+     }, 
+    {
+    "word": "refining",
+    "definition": "making something more pure or improved.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 20
+     }, 
+    {
+    "word": "scullery",
+    "definition": "a small room for washing dishes and kitchen work.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 21
+     }, 
+    {
+    "word": "ladylike",
+    "definition": "having the qualities expected of a proper lady.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 22
+     }, 
+    {
+    "word": "painting",
+    "definition": "a piece of visual art made with paint.",
+    "isUsed": false,
+    "wordCount": 8,
+    "id": 23
+     }, 
+    {
+    "word": "etiquette",
+    "definition": "the rules of polite behavior in society.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 1
+     }, 
+    {
+    "word": "chaperone",
+    "definition": "an adult who supervises young people socially.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 2
+     }, 
+    {
+    "word": "gentleman",
+    "definition": "a polite, well-bred man; often of good standing.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 3
+     }, 
+    {
+    "word": "debutante",
+    "definition": "a young woman making a first formal society appearance.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 4
+     }, 
+    {
+    "word": "propriety",
+    "definition": "proper behavior according to social rules.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 5
+     }, 
+    {
+    "word": "deference",
+    "definition": "respectful submission to another’s wishes or rank.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 6
+     }, 
+    {
+    "word": "waistcoat",
+    "definition": "a sleeveless vest worn under a jacket.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 7
+     },
+    {
+    "word": "petticoat",
+    "definition": "an underskirt worn under a dress.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 8
+     }, 
+    {
+    "word": "ballgowns",
+    "definition": "formal dresses worn to dances.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 9
+     }, 
+    {
+    "word": "housemaid",
+    "definition": "a servant who cleans rooms and helps in the house.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 10
+     }, 
+    {
+    "word": "servitude",
+    "definition": "the condition of being in service to others.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 11
+     }, 
+    {
+    "word": "porcelain",
+    "definition": "fine white ceramic used for dishes and ornaments.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 12
+     }, 
+     {
+    "word": "afternoon",
+    "definition": "the time from midday to evening; common for visits.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 13
+     }, 
+    {
+    "word": "moonlight",
+    "definition": "a light in the night sky, often used for evening walks.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 14
+     }, 
+    {
+    "word": "handiwork",
+    "definition": "handmade craft, especially sewing and needlework.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 15
+     }, 
+    {
+    "word": "romancing",
+    "definition": "pursuing love and acting in a romantic way.",
+    "isUsed": false,
+    "wordCount": 9,
+    "id": 16
+     }, 
+    {
+    "word": "embroidery",
+    "definition": "decorative stitching done on fabric.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 1
+     }, 
+    {
+    "word": "candelabra",
+    "definition": "a branched holder for several candles.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 2
+     }, 
+    {
+    "word": "stationery",
+    "definition": "writing paper, envelopes, and related supplies.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 3
+     }, 
+    {
+    "word": "chandelier",
+    "definition": "a ceiling light fixture, often with candles or crystals.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 4
+     }, 
+    {
+    "word": "decorative",
+    "definition": "used to make a place look aesthetically pleasing.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 5
+     }, 
+    {
+    "word": "engagement",
+    "definition": "a formal agreement to marry.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 6
+     }, 
+    {
+    "word": "masquerade",
+    "definition": "a costume ball where guests wear masks.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 7
+     }, 
+    {
+    "word": "parliament",
+    "definition": "a national law-making body.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 8
+     }, 
+    {
+    "word": "silverware",
+    "definition": "knives, forks, spoons, and serving pieces.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 9
+     }, 
+    {
+    "word": "watercolor",
+    "definition": "a paint that uses water to lift, move, and dilute pigment.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 10
+     }, 
+    {
+    "word": "periodical",
+    "definition": "a magazine or journal issued regularly.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 11
+     }, 
+    {
+    "word": "confection",
+    "definition": "a sweet treat, such as candy or a pastry.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 12
+     }, 
+    {
+    "word": "theatrical",
+    "definition": "relating to plays, actors, and performaces.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 13
+     }, 
+    {
+    "word": "playacting",
+    "definition": "acting in a theatrical performance.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 14
+     }, 
+    {
+    "word": "governance",
+    "definition": "the act or system of ruling and managing.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 15
+     }, 
+    {
+    "word": "headmaster",
+    "definition": "a school’s principal or chief teacher.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 16
+     }, 
+    {
+    "word": "schoolroom",
+    "definition": "a room used for teaching and lessons at home.",
+    "isUsed": false,
+    "wordCount": 10,
+    "id": 17
+     },
+    {
+    "word": "aristocracy",
+    "definition": "the nobility and upper social class.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 1
+     }, 
+    {
+    "word": "inheritance",
+    "definition": "property or money received from a relative who died.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 2
+     }, 
+    {
+    "word": "fashionable",
+    "definition": "popular and stylish in society.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 3
+     }, 
+    {
+    "word": "respectable",
+    "definition": "proper and worthy of respect in the community.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 4
+     }, 
+    {
+    "word": "needlepoint",
+    "definition": "decorative stitching on canvas with a needle.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 5
+     }, 
+    {
+    "word": "exhibitions",
+    "definition": "public displays of art, crafts, or collections.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 6
+     }, 
+    {
+    "word": "manuscripts",
+    "definition": "handwritten drafts or important documents.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 7
+     }, 
+    {
+    "word": "sensibility",
+    "definition": "sensitivity of feeling or emotional awareness.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 8
+     }, 
+    {
+    "word": "gentlewoman",
+    "definition": "a woman of good breeding and manners.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 9
+     }, 
+    {
+    "word": "impertinent",
+    "definition": "acting rudely bold or not showing proper respect.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 10
+     }, 
+    {
+    "word": "hospitality",
+    "definition": "friendly and generous treatment of guests.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 11
+     }, 
+    {
+    "word": "regulations",
+    "definition": "official rules that guide behavior.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 12
+     }, 
+    {
+    "word": "handwriting",
+    "definition": "writing done by hand or penmanship.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 13
+     }, 
+    {
+    "word": "picturesque",
+    "definition": "being attractive in appearance.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 14
+     }, 
+    {
+    "word": "promenading",
+    "definition": "strolling in public, often to seen by others.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 15
+     }, 
+    {
+    "word": "courtliness",
+    "definition": "polite, formal manners suitable for court.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 16
+     }, 
+    {
+    "word": "conservatory",
+    "definition": "a glass room used for plants or for sitting in light.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 1
+     }, 
+    {
+    "word": "acquaintance",
+    "definition": "someone you know, but not closely.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 2
+     }, 
+    {
+    "word": "proclamation",
+    "definition": "an official public announcement.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 3
+     }, 
+    {
+    "word": "handkerchief",
+    "definition": "a small cloth used for wiping the face or hands.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 4
+     }, 
+    {
+    "word": "recollection",
+    "definition": "the act of remembering.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 5
+     }, 
+    {
+    "word": "needleworker",
+    "definition": "a person who sews or does needlework.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 6
+     }, 
+    {
+    "word": "embellishing",
+    "definition": "adding decorative details.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 7
+     }, 
+    {
+    "word": "gentleperson",
+    "definition": "a polite and well-mannered person.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 8
+     }, 
+    {
+    "word": "arrangements",
+    "definition": "plans or preparations made in advance.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 9
+     }, 
+    {
+    "word": "improprieties",
+    "definition": "behavior that is not proper by social standards.",
+    "isUsed": false,
+    "wordCount": 13,
+    "id": 1
+     }, 
+    {
+    "word": "indiscretions",
+    "definition": "unwise actions, especially ones that cause gossip.",
+    "isUsed": false,
+    "wordCount": 13,
+    "id": 2
+     }, 
+    {
+    "word": "accommodation",
+    "definition": "provide temporary lodging or a place to stay.",
+    "isUsed": false,
+    "wordCount": 13,
+    "id": 3
+     }, 
+    {
+    "word": "complimentary",
+    "definition": "expressing praise or polite admiration.",
+    "isUsed": false,
+    "wordCount": 13,
+    "id": 4
+     }, 
+    {
+    "word": "attentiveness",
+    "definition": "careful, polite attention to others and what’s said.",
+    "isUsed": false,
+    "wordCount": 13,
+    "id": 5
+     }, 
+    {
+    "word": "countenancing",
+    "definition": "approving of or supporting something.",
+    "isUsed": false,
+    "wordCount": 13,
+    "id": 6
+     }, 
+    {
+    "word": "presentations",
+    "definition": "formal showings.",
+    "isUsed": false,
+    "wordCount": 13,
+    "id": 7
+     }, 
+    {
+    "word": "considerately",
+    "definition": "in a thoughtful, polite way.",
+    "isUsed": false,
+    "wordCount": 13,
+    "id": 8
+     }, 
+    {
+    "word": "correspondence",
+    "definition": "written communication exchanged between people.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 1
+     }, 
+    {
+    "word": "responsibility",
+    "definition": "a duty or obligation that one must handle.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 2
+     }, 
+    {
+    "word": "thoughtfulness",
+    "definition": "careful kindness and consideration for others.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 3
+     }, 
+    {
+    "word": "prearrangement",
+    "definition": "an agreement or plan made ahead of time.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 4
+     },
+    {
+    "word": "establishments",
+    "definition": "organizations or households.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 4
+     }
+] 
