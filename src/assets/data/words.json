@@ -1132,6 +1132,34 @@
     "id": 16
      }, 
     {
+    "word": "forbearance",
+    "definition": "patience and self-control.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 17
+     }, 
+    {
+    "word": "playwriting",
+    "definition": "the craft of writing scripts for on stage performances.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 18
+     }, 
+    {
+    "word": "incongruous",
+    "definition": "out of place and not fitting",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 19
+     },
+    {
+    "word": "proceedings",
+    "definition": "a series of events involving a formal action.",
+    "isUsed": false,
+    "wordCount": 11,
+    "id": 20
+     },
+    {
     "word": "conservatory",
     "definition": "a glass room used for plants or for sitting in light.",
     "isUsed": false,
@@ -1188,12 +1216,61 @@
     "id": 8
      }, 
     {
-    "word": "arrangements",
-    "definition": "plans or preparations made in advance.",
+    "word": "confidential",
+    "definition": "privately and secretly shared information.",
     "isUsed": false,
     "wordCount": 12,
     "id": 9
      }, 
+    {
+    "word": "arrangements",
+    "definition": "plans or preparations made in advance.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 10
+     },
+    {
+    "word": "countenances",
+    "definition": "facial expressions or the look on someone’s face.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 11
+     }, 
+    {
+    "word": "theatregoing",
+    "definition": "the habit of going to plays.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 12
+     }, 
+    {
+    "word": "discomposure",
+    "definition": "loss of calm.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 13
+     },
+    {
+    "word": "housewarming",
+    "definition": "a gathering to celebrate moving into a new home.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 14
+     },
+    {
+    "word": "discourteous",
+    "definition": "rude and lacking manners.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 15
+     },
+    {
+    "word": "unprincipled",
+    "definition": "lacking moral standards.",
+    "isUsed": false,
+    "wordCount": 12,
+    "id": 16
+     },
     {
     "word": "improprieties",
     "definition": "behavior that is not proper by social standards.",
@@ -1251,6 +1328,13 @@
     "id": 8
      }, 
     {
+    "word": "contemplation",
+    "definition": "deep thought or reflection",
+    "isUsed": false,
+    "wordCount": 13,
+    "id": 9
+     },
+    {
     "word": "correspondence",
     "definition": "written communication exchanged between people.",
     "isUsed": false,
@@ -1265,8 +1349,8 @@
     "id": 2
      }, 
     {
-    "word": "thoughtfulness",
-    "definition": "careful kindness and consideration for others.",
+    "word": "circumstantial",
+    "definition": "dependent on circumstances.",
     "isUsed": false,
     "wordCount": 14,
     "id": 3
@@ -1283,6 +1367,195 @@
     "definition": "organizations or households.",
     "isUsed": false,
     "wordCount": 14,
+    "id": 5
+     }, 
+    {
+    "word": "acknowledgment",
+    "definition": "a statement showing recognition or thanks.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 6
+     }, 
+    {
+    "word": "rearrangements",
+    "definition": "changes made to the order or layout of things.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 7
+     }, 
+    {
+    "word": "reconciliation",
+    "definition": "restoring friendly relations after disagreement.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 8
+     }, 
+    {
+    "word": "affectionately",
+    "definition": "with fondness and warmth.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 9
+     }, 
+    {
+    "word": "delightfulness",
+    "definition": "the quality of being very pleasing or charming.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 10
+     }, 
+    {
+    "word": "bibliographies",
+    "definition": "lists of books and sources on a topic.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 11
+     }, 
+    {
+    "word": "inconveniences",
+    "definition": "difficulties or troubles that cause delay or bother.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 12
+     }, 
+    {
+    "word": "unquestionably",
+    "definition": "unquestionably.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 13
+     }, 
+    {
+    "word": "acknowledgment",
+    "definition": "a statement showing recognition or thanks.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 14
+     }, 
+    {
+    "word": "presentability",
+    "definition": "the quality of looking proper and acceptable.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 15
+     }, 
+    {
+    "word": "unintelligible",
+    "definition": "impossible to understand.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 16
+     }, 
+    {
+    "word": "indiscreetness",
+    "definition": "lack of discretion.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 17
+     },
+    {
+    "word": "ungraciousness",
+    "definition": "lack of grace and rudeness.",
+    "isUsed": false,
+    "wordCount": 14,
+    "id": 18
+     },
+    {
+    "word": "romanticization",
+    "definition": "making something seem better than it is.",
+    "isUsed": false,
+    "wordCount": 15,
+    "id": 1
+     }, 
+    {
+    "word": "indiscretionary",
+    "definition": "showing a lack of careful judgment; not discreet.",
+    "isUsed": false,
+    "wordCount": 15,
+    "id": 2
+     }, 
+    {
+    "word": "intellectualism",
+    "definition": "interest in ideas, learning, and thoughtful discussion.",
+    "isUsed": false,
+    "wordCount": 15,
+    "id": 3
+     }, 
+    {
+    "word": "misinterpretive",
+    "definition": "likely to misunderstand or interpret wrongly.",
+    "isUsed": false,
+    "wordCount": 15,
     "id": 4
+     }, 
+    {
+    "word": "reconsideration",
+    "definition": "thinking again about a decision or opinion.",
+    "isUsed": false,
+    "wordCount": 15,
+    "id": 5
+     }, 
+    {
+    "word": "interpretations",
+    "definition": "explanations of meaning, especially in art or text.",
+    "isUsed": false,
+    "wordCount": 15,
+    "id": 6
+     }, 
+    {
+    "word": "unexceptionable",
+    "definition": "flawless and beyond criticism.",
+    "isUsed": false,
+    "wordCount": 15,
+    "id": 7
+     }, 
+    {
+    "word": "unobjectionable",
+    "definition": "acceptable and not offensive.",
+    "isUsed": false,
+    "wordCount": 15,
+    "id": 8
+     }, 
+    {
+    "word": "incompatibility",
+    "definition": "inability to get along or work well together.",
+    "isUsed": false,
+    "wordCount": 15,
+    "id": 9
+     }, 
+    {
+    "word": "inattentiveness",
+    "definition": "lack of attention.",
+    "isUsed": false,
+    "wordCount": 15,
+    "id": 10
+     }, 
+    {
+    "word": "distastefulness.",
+    "definition": "offensiveness and lack of good taste.",
+    "isUsed": false,
+    "wordCount": 15,
+    "id": 11
+     }, 
+    {
+    "word": "ceremoniousness",
+    "definition": "excessive formality.",
+    "isUsed": false,
+    "wordCount": 15,
+    "id": 11
+     },
+    {
+    "word": "inconsequential",
+    "definition": "unimportant and trivial.",
+    "isUsed": false,
+    "wordCount": 15,
+    "id": 12
+     },
+     {
+    "word": "unquestioningly",
+    "definition": "without doubt or hesitation.",
+    "isUsed": false,
+    "wordCount": 15,
+    "id": 13
      }
 ] 
