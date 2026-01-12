@@ -28,7 +28,7 @@
 }, 
 {
     "word": "court", 
-    "definition": "a high society or to seek a romantic relationship.", 
+    "definition": "the circle around a monarch or to try to gain someone's romantic love.", 
     "isUsed": false, 
     "wordCount": 5, 
     "id": 5
@@ -189,7 +189,7 @@
   },
   {
     "word": "dress",
-    "definition": "ca one-piece garment.",
+    "definition": "a one-piece garment.",
     "isUsed": false,
     "wordCount": 5,
     "id": 28
@@ -265,178 +265,171 @@
     "id": 1
   }, 
     {
-    "word": "gownes",
-    "definition": "elegant dresses worn for formal occasions.",
-    "isUsed": false,
-    "wordCount": 6,
-    "id": 2
-  }, 
-    {
     "word": "corset",
     "definition": "a fitted garment that shapes the waist.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 3
+    "id": 2
   }, 
   {
     "word": "estate",
     "definition": "a large property, often with a house and land.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 4
+    "id": 3
   }, 
     {
     "word": "garden",
     "definition": "a cultivated outdoor space for plants.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 5
+    "id": 4
   }, 
     {
     "word": "candle",
     "definition": "a wax light source with a wick.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 6
+    "id": 5
   }, 
     {
     "word": "ribbon",
     "definition": "a narrow strip of fabric for trimming or tying.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 7
+    "id": 6
   }, 
     {
     "word": "velvet",
     "definition": "a soft fabric with a short, dense pile.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 8
+    "id": 7
   }, {
     "word": "silver",
     "definition": "a shiny metal used for cutlery and jewelry.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 9
+    "id": 8
   },
   {
     "word": "teapot",
     "definition": "a pot used for brewing and serving tea.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 10
+    "id": 9
   },
   {
     "word": "mirror",
     "definition": "a reflective surface used for grooming.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 11
+    "id": 10
   },
   {
     "word": "letter",
     "definition": "a written message sent to someone.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 12
+    "id": 11
   },
   {
     "word": "squire",
     "definition": "a country gentleman, often an estate holder.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 13
+    "id": 12
   },
   {
     "word": "suitor",
     "definition": "a person who seeks to marry someone.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 14
+    "id": 13
   },
   {
     "word": "manner",
     "definition": "a way of behaving.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 15
+    "id": 14
   },
   {
     "word": "social",
-    "definition": "an informal gathering",
+    "definition": "an informal gathering.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 16
+    "id": 15
   }, 
    {
     "word": "sewing",
     "definition": "joining cloth with needle and thread.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 17
+    "id": 16
   },
   {
     "word": "needle",
     "definition": "a slender tool used for sewing.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 18
+    "id": 17
   }, 
   {
     "word": "butler",
     "definition": "a senior servant managing a household.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 19
+    "id": 18
   },
   {
     "word": "castle",
     "definition": "a large fortified building, often historic.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 20
+    "id": 19
   }, 
    {
     "word": "gloves",
     "definition": "hand coverings worn for dress or warmth.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 21
+    "id": 20
   },
   {
     "word": "shawls",
     "definition": "wraps worn over the shoulders.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 22
+    "id": 21
   },
   {
     "word": "brooch",
     "definition": "a decorative pin worn on clothing.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 23
+    "id": 22
   },
   {
     "word": "gentle",
     "definition": "kind, mild, and not rough or harsh.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 24
+    "id": 23
   }, 
    {
     "word": "polite",
-    "definition": "showing good manners and respectful.",
+    "definition": "showing good manners and being respectful.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 25
+    "id": 24
   },
   {
     "word": "curtsy",
     "definition": "a respectful bending of the knees by a woman.",
     "isUsed": false,
     "wordCount": 6,
-    "id": 26
+    "id": 25
   }, 
  {
     "word": "regency",
@@ -580,14 +573,14 @@
  }, 
     {
     "word": "hosting",
-    "definition": "antertaining guests at home.",
+    "definition": "entertaining guests at home.",
     "isUsed": false,
     "wordCount": 7,
     "id": 21 
  }, 
     {
     "word": "ballads",
-    "definition": "songs or poem that tells a story.",
+    "definition": "songs or poems that tell a story.",
     "isUsed": false,
     "wordCount": 7,
     "id": 22 
@@ -930,7 +923,7 @@
      }, 
     {
     "word": "decorative",
-    "definition": "used to make a place look aesthetically pleasing.",
+    "definition": "serving to make something look more attractive.",
     "isUsed": false,
     "wordCount": 10,
     "id": 5
@@ -986,7 +979,7 @@
      }, 
     {
     "word": "theatrical",
-    "definition": "relating to plays, actors, and performaces.",
+    "definition": "relating to plays, actors, and performances.",
     "isUsed": false,
     "wordCount": 10,
     "id": 13
@@ -1119,7 +1112,7 @@
      }, 
     {
     "word": "promenading",
-    "definition": "strolling in public, often to seen by others.",
+    "definition": "strolling in public, often to be seen by others.",
     "isUsed": false,
     "wordCount": 11,
     "id": 15
@@ -1147,7 +1140,7 @@
      }, 
     {
     "word": "incongruous",
-    "definition": "out of place and not fitting",
+    "definition": "out of place and not fitting.",
     "isUsed": false,
     "wordCount": 11,
     "id": 19
@@ -1287,7 +1280,7 @@
      }, 
     {
     "word": "accommodation",
-    "definition": "provide temporary lodging or a place to stay.",
+    "definition": "lodging or a place to stay.",
     "isUsed": false,
     "wordCount": 13,
     "id": 3
@@ -1329,7 +1322,7 @@
      }, 
     {
     "word": "contemplation",
-    "definition": "deep thought or reflection",
+    "definition": "deep thought or reflection.",
     "isUsed": false,
     "wordCount": 13,
     "id": 9
@@ -1420,45 +1413,38 @@
      }, 
     {
     "word": "unquestionably",
-    "definition": "unquestionably.",
+    "definition": "doing something in a way that cannot be disputed.",
     "isUsed": false,
     "wordCount": 14,
     "id": 13
-     }, 
-    {
-    "word": "acknowledgment",
-    "definition": "a statement showing recognition or thanks.",
-    "isUsed": false,
-    "wordCount": 14,
-    "id": 14
      }, 
     {
     "word": "presentability",
     "definition": "the quality of looking proper and acceptable.",
     "isUsed": false,
     "wordCount": 14,
-    "id": 15
+    "id": 14
      }, 
     {
     "word": "unintelligible",
     "definition": "impossible to understand.",
     "isUsed": false,
     "wordCount": 14,
-    "id": 16
+    "id": 15
      }, 
     {
     "word": "indiscreetness",
     "definition": "lack of discretion.",
     "isUsed": false,
     "wordCount": 14,
-    "id": 17
+    "id": 16
      },
     {
     "word": "ungraciousness",
     "definition": "lack of grace and rudeness.",
     "isUsed": false,
     "wordCount": 14,
-    "id": 18
+    "id": 17
      },
     {
     "word": "romanticization",
@@ -1482,80 +1468,68 @@
     "id": 3
      }, 
     {
-    "word": "misinterpretive",
-    "definition": "likely to misunderstand or interpret wrongly.",
-    "isUsed": false,
-    "wordCount": 15,
-    "id": 4
-     }, 
-    {
     "word": "reconsideration",
     "definition": "thinking again about a decision or opinion.",
     "isUsed": false,
     "wordCount": 15,
-    "id": 5
+    "id": 4
      }, 
     {
     "word": "interpretations",
     "definition": "explanations of meaning, especially in art or text.",
     "isUsed": false,
     "wordCount": 15,
-    "id": 6
+    "id": 5
      }, 
     {
     "word": "unexceptionable",
     "definition": "flawless and beyond criticism.",
     "isUsed": false,
     "wordCount": 15,
-    "id": 7
+    "id": 6
      }, 
     {
     "word": "unobjectionable",
     "definition": "acceptable and not offensive.",
     "isUsed": false,
     "wordCount": 15,
-    "id": 8
+    "id": 7
      }, 
     {
     "word": "incompatibility",
     "definition": "inability to get along or work well together.",
     "isUsed": false,
     "wordCount": 15,
-    "id": 9
+    "id": 8
      }, 
     {
     "word": "inattentiveness",
     "definition": "lack of attention.",
     "isUsed": false,
     "wordCount": 15,
-    "id": 10
-     }, 
-    {
-    "word": "distastefulness.",
-    "definition": "offensiveness and lack of good taste.",
-    "isUsed": false,
-    "wordCount": 15,
-    "id": 11
+    "id": 9
      }, 
     {
     "word": "ceremoniousness",
     "definition": "excessive formality.",
     "isUsed": false,
     "wordCount": 15,
-    "id": 11
+    "id": 10
      },
     {
     "word": "inconsequential",
     "definition": "unimportant and trivial.",
     "isUsed": false,
     "wordCount": 15,
-    "id": 12
+    "id": 11
      },
      {
     "word": "unquestioningly",
     "definition": "without doubt or hesitation.",
     "isUsed": false,
     "wordCount": 15,
-    "id": 13
+    "id": 12
      }
 ] 
+
+

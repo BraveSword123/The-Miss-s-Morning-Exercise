@@ -5,6 +5,7 @@ import Circle from "./components/Circle"
 import LetterBox from "./components/LetterBox"
 import './App.css'
 import defaultSpeak from './assets/Images/Face Asset Speak Default.png'
+// import words from "../assets/data/words.json";
 
 function App() {
   // const [count, setCount] = useState(0)
