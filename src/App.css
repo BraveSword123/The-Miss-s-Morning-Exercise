@@ -6,6 +6,10 @@
     the text box
     Margin and padding adjustments will be needed as well
 */ 
+
+body{
+  overflow: hidden;
+}
 #header{
   display: flex; 
   /* justify-content: space-around;
@@ -47,6 +51,7 @@
   position: fixed; 
   left: 7px;
   margin-left: 300px;
+  margin-top: -10px; 
 }
 
 #hint{
@@ -57,24 +62,35 @@
   font-weight: 100;
   float: right;
   cursor: pointer; 
-  margin-right: 350px; 
+  margin-right: 350px;
+    margin-top: -10px;  
+}
+
+#hint:hover{
+  background-color: #ff8486; 
+  color: #fffdfd; 
+  transition: 0.3s; 
+}
+
+#hint:active{
+  transform: scale(0.98); 
 }
 
 #circleDiv{
   border-radius: 30px;
   background-color: #FF8486; 
-  width: 35px; 
-  height: 35px; 
+  width: 30px; /* 35px */ 
+  height: 30px; /* 35px */ 
   z-index: 10; 
 }
 
 #textBox{
   border: 2px solid #ff8486; 
-  width: 700px;
+  width: 700px;  
   height: 200px; 
   margin-left: auto;  
   margin-right: auto; 
-  margin-top: 520px; 
+  margin-top: 450px; /* 520px */ 
   background-color: #fffdfd;
 }
 
@@ -133,6 +149,16 @@
     border: none;
   }
 
+  #firstButton:hover{
+  background-color: #ff8486; 
+  color: #fffdfd; 
+  transition: 0.3s; 
+  }
+
+  #firstButton:active{
+    transform: scale(0.98); 
+  }
+
   #secondButton{
     font-family: 'Times New Roman', Times, serif; 
     font-size: 17px;
@@ -143,18 +169,36 @@
     border: none; 
   }
 
-  #letterBoxContainer{
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px; 
-    justify-content: center;
+  #secondButton:active{
+    transform: scale(0.98); 
   }
 
+  #secondButton:hover{
+  background-color: #ff8486; 
+  color: #fffdfd; 
+  transition: 0.3s; 
+  }
+
+ #letterBoxContainer{
+    display: flex; 
+   flex-wrap: wrap; 
+    gap: 20px;  
+    margin-top: 40px; /* 30px */ 
+    align-items: center;
+    justify-content: center;
+  } 
+
   #letterBox{
-    width: 60px; 
-    height: 80px; 
+    width: 30px; /* 40px */ 
+    height: 40px; /* 50px */ 
     background-color: #fffdfd;
-    border: 2px solid #ff8486;
+    border: 2px solid #ff8486; 
+    font-size: 30px; 
+    text-align: center; 
+    font-family: 'Parisienne', cursive; 
+    padding-top: 10px; 
+    padding-left: 5px; 
+    padding-right: 5px; 
   }
   
 /* #root {
